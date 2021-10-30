@@ -8,6 +8,19 @@
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
+## 目录
+
++   [PHP 入门指南](docs/begin-php/SUMMARY.md)
++   [使用 PHP7 构建 REST Web 服务](docs/build-rest-websvc-php/SUMMARY.md)
++   [函数式 PHP](docs/func-php/SUMMARY.md)
++   [精通更快的 PHP7、MySQL 和 JS Web 应用](docs/master-faster-web-php7/SUMMARY.md)
++   [精通 PHP7](docs/master-php7/SUMMARY.md)
++   [现代化遗留 PHP 应用](docs/modern-legacy-app-php/SUMMARY.md)
++   [PHP7 模块化编程](docs/mod-prog-php7/SUMMARY.md)
++   [PHP7 数据结构和算法](docs/php7-dsal/SUMMARY.md)
++   [PHP7 编程秘籍](docs/php7-prog-cb/SUMMARY.md)
++   [PHP8 编程提示、技巧和最佳实践](docs/php8-prog-tip-trick-best-prac/SUMMARY.md)
+
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
