@@ -20,6 +20,13 @@
 +   [PHP7 数据结构和算法](docs/php7-dsal/SUMMARY.md)
 +   [PHP7 编程秘籍](docs/php7-prog-cb/SUMMARY.md)
 +   [PHP8 编程提示、技巧和最佳实践](docs/php8-prog-tip-trick-best-prac/SUMMARY.md)
++   [使用 PHP 和 JQ 构建游戏化站点](docs/build-game-website-php-jq/SUMMARY.md)
++   [CouchDB PHP Web 开发入门指南](docs/couchdb-php-web-dev-begin-guide/SUMMARY.md)
++   [精通 PHP 设计模式](docs/master-php-design-ptn/SUMMARY.md)
++   [PHP7 编程蓝图](docs/php7-prog-blueprint/SUMMARY.md)
++   [PHP Ajax 秘籍](docs/php-ajax-cb/SUMMARY.md)
++   [PHP 和 Netbeans 应用开发](docs/php-app-dev-nb/SUMMARY.md)
++   [Apache Solr PHP 集成](docs/solr-php-integ/SUMMARY.md)
 
 ## 贡献指南
 
