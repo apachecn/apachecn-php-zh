@@ -27,6 +27,14 @@
 +   [PHP Ajax 秘籍](docs/php-ajax-cb/SUMMARY.md)
 +   [PHP 和 Netbeans 应用开发](docs/php-app-dev-nb/SUMMARY.md)
 +   [Apache Solr PHP 集成](docs/solr-php-integ/SUMMARY.md)
++   [Drupal：创建博客、论坛、门户和社区网站](docs/drupal/SUMMARY.md)
++   [FuelPHP 高效开发学习手册](docs/learn-fuelphp-effec-php-dev/SUMMARY.md)
++   [PHP7 高性能学习手册](docs/learn-php7-hiperf/SUMMARY.md)
++   [PHP7 数据对象学习手册](docs/learn-php-data-obj/SUMMARY.md)
++   [Magento PHP 开发指南](docs/magento-php-dev-guide/SUMMARY.md)
++   [PHP Doctrine ORM 持久化](docs/persist-php-doctrine-orm/SUMMARY.md)
++   [PHP 微服务](docs/php-microsvc/SUMMARY.md)
++   [PHP Yii Web 应用开发](docs/webapp-dev-yii-php/SUMMARY.md)
 
 ## 贡献指南
 
