@@ -35,13 +35,13 @@
 +   [PHP Doctrine ORM 持久化](docs/persist-php-doctrine-orm/SUMMARY.md)
 +   [PHP 微服务](docs/php-microsvc/SUMMARY.md)
 +   [PHP Yii Web 应用开发](docs/webapp-dev-yii-php/SUMMARY.md)
-+   [VueJS2 和 Laravel5 全栈开发](full-stk-vue2-laravel5/SUMMARY.md)
-+   [Angular6 和 Laravel5 全栈 Web 开发实用指南](handson-full-stk-web-dev-ng6-laravel5/SUMMARY.md)
-+   [Laravel 应用开发蓝图](laravel-app-dev-bp/SUMMARY.md)
-+   [Laravel 应用开发秘籍](laravel-app-dev-cb/SUMMARY.md)
-+   [Laravel 设计模式和最佳实践](laravel-design-ptn-best-prac/SUMMARY.md)
-+   [Laravel 即时入门](laravel-start/SUMMARY.md)
-+   [精通 Laravel](master-laravel/SUMMARY.md)
++   [VueJS2 和 Laravel5 全栈开发](docs/full-stk-vue2-laravel5/SUMMARY.md)
++   [Angular6 和 Laravel5 全栈 Web 开发实用指南](docs/handson-full-stk-web-dev-ng6-laravel5/SUMMARY.md)
++   [Laravel 应用开发蓝图](docs/laravel-app-dev-bp/SUMMARY.md)
++   [Laravel 应用开发秘籍](docs/laravel-app-dev-cb/SUMMARY.md)
++   [Laravel 设计模式和最佳实践](docs/laravel-design-ptn-best-prac/SUMMARY.md)
++   [Laravel 即时入门](docs/laravel-start/SUMMARY.md)
++   [精通 Laravel](docs/master-laravel/SUMMARY.md)
 
 ## 贡献指南
 
